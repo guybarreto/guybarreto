@@ -9,7 +9,7 @@
 </div>
 <div>
     <h3>Tests</h3>
-    <img src="https://img.shields.io/badge/-Jest-323330?style=flat&logo=jest&logoColor=%2315C214" alt="Jest" height="30" />
+    <img src="https://img.shields.io/badge/-Jest-323330?style=flat-square&logo=jest&logoColor=%23C21425" alt="Jest" height="30" />
     <img src="https://img.shields.io/badge/-Mocha-323330?style=flat&logo=mocha" alt="Mocha" height="30" />
     <img src="https://img.shields.io/badge/-Chai-323330?style=flat&logo=chai&logoColor=%23B9574E" alt="Chai" height="30" />
     <img src="https://img.shields.io/badge/-Sinon.js-323330?style=flat&logo=sinon" alt="Sinon" height="30" />
@@ -52,6 +52,7 @@
     <h3>Databases</h3>
     <img src="https://img.shields.io/badge/-MySQL-323330?style=flat&logo=mysql" alt="MySQL" height="30" />
     <img src="https://img.shields.io/badge/-PostgreSQL-323330?style=flat&logo=PostgreSQL" alt="PostgreSQL" height="30" />
+    <img src="https://img.shields.io/badge/-MongoDB%20(learning)-323330?style=flat&logo=MongoDB" alt="MongoDB" height="30" />
 </div>
 <div>
     <h3>Hosting/SaaS</h3>
