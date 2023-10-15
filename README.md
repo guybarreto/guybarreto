@@ -32,7 +32,7 @@
 <div>
     <h3>Linters</h3>
     <img src="https://img.shields.io/badge/-ESLint-323330?style=flat&logo=ESLint&logoColor=%237C7CEB" alt="ESLint" height="30" />
-    <img src="./images/programmer.gif" alt="programmer" align="right" style="width: 400px; padding-left: 0; border-radius: 8px;" />
+    <img src="./images/coding.gif" alt="programmer" align="right" style="width: 400px; padding-left: 0;" />
 </div>
 <div>
     <h3>Stylesheet and Markdown</h3>
